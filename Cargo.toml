@@ -1,0 +1,15 @@
+[package]
+name = "easy-ssh"
+version = "0.1.0"
+authors = ["DarkLich <lich123good@gmail.com>"]
+keywords = ["ssh"]
+repository = "https://github.com/DarkLichCode/easy-ssh" # 代码仓库地址
+homepage = "https://github.com/DarkLichCode/easy-ssh"
+description = "A user-friendly SSH client wrapper for Rust, designed with a focus on ergonomics and safety."
+readme = "README.md"
+edition = "2024"
+license = "MIT"
+
+[dependencies]
+ssh2 = "0.9"
+thiserror = "2.0.18"
