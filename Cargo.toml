@@ -9,6 +9,7 @@ description = "A user-friendly SSH client wrapper for Rust, designed with a focu
 readme = "README.md"
 edition = "2024"
 license = "MIT"
+exclude = ["target/**", ".git/**", ".idea/**", "Cargo.lock", ".gitignore", "LICENSE"]
 
 [dependencies]
 ssh2 = "0.9"
