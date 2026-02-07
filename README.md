@@ -20,7 +20,7 @@ It is designed as a building block for system tools, automation, and future asyn
 
 ## 📦 Installation
 
-This is a **synchronous (blocking)** library. For async support, stay tuned for our [**Roadmap**](#🗺️Roadmap)
+This is a **synchronous (blocking)** library. For async support, stay tuned for our [**Roadmap**](#roadmap)
 
 **Cargo.toml**
 
@@ -87,7 +87,7 @@ Generate a compatible key using:
 ssh-keygen -t rsa -b 4096 -m PEM
 ```
 
-## 🗺️Roadmap
+## 🗺️Roadmap<a id="roadmap"></a>
 
 ✅ Password Authentication
 
