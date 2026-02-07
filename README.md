@@ -105,4 +105,4 @@ ssh-keygen -t rsa -b 4096 -m PEM
 
 ## 📜License
 
-MIT [LICENSE](https://github.com/DarkLichCode/easy-ssh/blob/v0.1/LICENSE)
+MIT [LICENSE](https://github.com/DarkLichCode/easy-ssh/blob/main/LICENSE)
