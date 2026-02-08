@@ -77,6 +77,15 @@ fn main() -> Result<(), Box<dyn std::error::Error>>{
 }
 ```
 
+## ⌨️Examples
+
+⚠️ This example uses a public demo server (`test.rebex.net`) with demo credentials.
+ Do **not** use it for real workloads.
+
+```shell
+cargo run --example password
+```
+
 ## ⚠️Private Key Format
 
 This library uses `libssh2`, which does **not** support OpenSSH private key format.
